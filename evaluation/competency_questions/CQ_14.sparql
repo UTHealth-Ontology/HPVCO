@@ -1,0 +1,27 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX hpvco: <http://www.semanticweb.org/HPVCO:>
+
+SELECT DISTINCT ?isViable
+WHERE {
+    {
+        SELECT (COUNT(DISTINCT ?cancer) AS ?totalCancers)
+        WHERE {
+            ?cancer rdfs:subClassOf hpvco:00000014 .
+        }
+    }
+    
+    {
+        SELECT (COUNT(DISTINCT ?cancer) AS ?chemotherapyCancers)
+        WHERE {
+            ?cancer rdfs:subClassOf hpvco:00000014 .
+            hpvco:00000102 rdfs:subClassOf [
+                rdf:type owl:Restriction ;
+                owl:onProperty hpvco:00000101 ;
+                owl:someValuesFrom ?cancer
+            ] .
+        }
+    }
+
+    BIND(IF(?totalCancers = ?chemotherapyCancers, "Yes", "No") AS ?isViable)
+}

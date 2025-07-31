@@ -8,7 +8,7 @@ The ontology also integrates standard biomedical terminologies such as NCIT, enh
 
 By focusing on the validity of logical axioms and aligning with patient-oriented frameworks, HPVCO supports educational, diagnostic, and decision-support tools, particularly for health consumers navigating HPV-related health challenges.
 
-## Usaage
+## Usage
 
 This resource is accessible through the following permanent url:
 

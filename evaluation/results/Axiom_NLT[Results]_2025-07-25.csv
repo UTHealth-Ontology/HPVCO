@@ -1,0 +1,369 @@
+AXIOM TYPE,AXIOM,NATURAL LANGUAGE TRANSLATION
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000175.HPVCO_00000152,every cervical cancer is a type of something that has symptom a vaginal bleeding
+SubClassOf,HPVCO_00000049 ⊑ ∃ HPVCO_00000074.HPVCO_00000052,every hpv vaccine uptake is a type of something that has driver a hpv vaccine related social norm
+SubClassOf,HPVCO_00000001 ⊑ ∃ HPVCO_00000056.HPVCO_00000059,every hpv infection is a type of something whose causally related to is a hpv related psychological stress
+SubClassOf,HPVCO_00000088 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every miscarriage prevention drug is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000064 ⊑ HPVCO_00000060,every cost of hpv surgery is a type of a financial impact of hpv
+SubClassOf,HPVCO_00000039 ⊑ HPVCO_00000035,every flat wart is a type of a wart
+SubClassOf,HPVCO_00000009 ⊑ ∃ HPVCO_00000056.HPVCO_00000020,every smoking is a type of something whose causally related to is a throat cancer
+SubClassOf,HPVCO_00000076 ⊑ HPVCO_00000075,every hpv vaccine acceptance is a type of an attitude towards hpv vaccine
+SubClassOf,HPVCO_00000002 ⊑ ∃ HPVCO_00000056.HPVCO_00000015,every hpv infection of the anus/genital region is a type of something whose causally related to is a cervical cancer
+SubClassOf,HPVCO_00000114 ⊑ HPVCO_00000057,every pap test is a type of a hpv testing/screeninghpv diagnostic test
+SubClassOf,HPVCO_00000017 ⊑ HPVCO_00000014,every anal cancer is a type of a cancer
+SubClassOf,HPVCO_00000061 ⊑ HPVCO_00000059,every social impact of hpv is a type of a hpv related psychological stress
+SubClassOf,HPVCO_00000190 ⊑ HPVCO_00000179,every cancer management stakeholder is a type of a stakeholder
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000197.HPVCO_00000108,every penile cancer is a type of something that cans potentially be prevented by a circumcision
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000175.HPVCO_00000141,every cervical cancer is a type of something that has symptom a pelvic pain
+SubClassOf,HPVCO_00000107 ⊑ ∃ HPVCO_00000101.HPVCO_00000016,every penectomy is a type of something whose treat is a penile cancer
+SubClassOf,HPVCO_00000076 ⊑ ∃ HPVCO_00000056.HPVCO_00000068,every hpv vaccine acceptance is a type of something whose causally related to is a positive hpv related social norm
+SubClassOf,HPVCO_00000181 ⊑ HPVCO_00000191,every family member is a type of a hpv infection management stakeholder
+SubClassOf,HPVCO_00000108 ⊑ ∃ HPVCO_00000101.HPVCO_00000016,every circumcision is a type of something whose treat is a penile cancer
+SubClassOf,HPVCO_00000198 ⊑ ∃ HPVCO_00000056.HPVCO_00000020,every radiation exposure is a type of something whose causally related to is a throat cancer
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000111.HPVCO_00000120,every throat cancer is a type of something that is diagnosed by a neurological exam
+SubClassOf,HPVCO_00000010 ⊑ HPVCO_00000032,every vagi is a type of an anatomical site
+SubClassOf,HPVCO_00000174 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every advanced age is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000197.HPVCO_00000133,every cervical cancer is a type of something that cans potentially be prevented by an avoiding needle sharing
+SubClassOf,HPVCO_00000045 ⊑ HPVCO_00000058,every safe sexual behavior is a type of a hpv infection risk reduction strategy
+SubClassOf,HPVCO_00000103 ⊑ ∃ HPVCO_00000101.HPVCO_00000020,every radiation is a type of something whose treat is a throat cancer
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000111.HPVCO_00000122,every vulvar cancer is a type of something that is diagnosed by a pet-ct scan
+SubClassOf,HPVCO_00000160 ⊑ HPVCO_00000146,every sore throat is a type of a throat and mouth symptom
+SubClassOf,HPVCO_00000011 ⊑ HPVCO_00000005,every alcoholism is a type of a destructive behavior
+SubClassOf,HPVCO_00000103 ⊑ ∃ HPVCO_00000101.HPVCO_00000017,every radiation is a type of something whose treat is an anal cancer
+SubClassOf,HPVCO_00000128 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every vaginal intraepithelial neoplasia (vain)atypical cells in the vagi is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000175.HPVCO_00000159,every anal cancer is a type of something that has symptom an itiching around anu
+SubClassOf,HPVCO_00000093 ⊑ HPVCO_00000089,every indirect financial impact of cancer is a type of a financial impact of cancer
+SubClassOf,HPVCO_00000042 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every weakened immune system is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000079 ⊑ HPVCO_00000006,every adapting to a lifestyle with hpv is a type of a constructive behavior
+SubClassOf,HPVCO_00000013 ⊑ ∃ BFO_0000050.HPVCO_00000030,every throat is a type of something whose part of is a human
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000111.HPVCO_00000121,every penile cancer is a type of something that is diagnosed by a biopsy
+SubClassOf,HPVCO_00000187 ⊑ HPVCO_00000190,every friend is a type of a cancer management stakeholder
+SubClassOf,HPVCO_00000087 ⊑ HPVCO_00000086,every prescribable drug is a type of a medication
+SubClassOf,HPVCO_00000127 ⊑ HPVCO_00000126,every precancerous conditions of the vulva or vagi is a type of a symptom
+SubClassOf,HPVCO_00000002 ⊑ ∃ HPVCO_00000056.HPVCO_00000017,every hpv infection of the anus/genital region is a type of something whose causally related to is an anal cancer
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000111.HPVCO_00000121,every anal cancer is a type of something that is diagnosed by a biopsy
+SubClassOf,HPVCO_00000066 ⊑ HPVCO_00000060,every cost of hpv testing/screening is a type of a financial impact of hpv
+SubClassOf,HPVCO_00000191 ⊑ ∃ HPVCO_00000180.HPVCO_00000044,every hpv infection management stakeholder is a type of something whose support is a hpv infection management stratergy
+SubClassOf,HPVCO_00000140 ⊑ HPVCO_00000139,every maintaining a healthy diet is a type of a health maintenance strategy
+SubClassOf,HPVCO_00000198 ⊑ HPVCO_00000097,every radiation exposure is a type of a cancer risk factor
+SubClassOf,HPVCO_00000016 ⊑ ∀ HPVCO_00000147.HPVCO_00000007,every penile cancer is a type of something whose disease has location is a penis
+SubClassOf,HPVCO_00000042 ⊑ HPVCO_00000097,every weakened immune system is a type of a cancer risk factor
+SubClassOf,HPVCO_00000135 ⊑ HPVCO_00000139,every routine medical check-up is a type of a health maintenance strategy
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000111.HPVCO_00000116,every vulvar cancer is a type of something that is diagnosed by a colposcopic biopsy
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000111.HPVCO_00000121,every throat cancer is a type of something that is diagnosed by a biopsy
+SubClassOf,HPVCO_00000182 ⊑ HPVCO_00000190,every co-worker is a type of a cancer management stakeholder
+SubClassOf,HPVCO_00000049 ⊑ HPVCO_00000041,every hpv vaccine uptake is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000017 ⊑ ∀ HPVCO_00000147.HPVCO_00000008,every anal cancer is a type of something whose disease has location is an anus
+SubClassOf,HPVCO_00000145 ⊑ HPVCO_00000126,every pelvic and anal symptom is a type of a symptom
+SubClassOf,HPVCO_00000080 ⊑ HPVCO_00000079,every adapting to hpv medication is a type of an adapting to a lifestyle with hpv
+SubClassOf,HPVCO_00000110 ⊑ ∃ HPVCO_00000101.HPVCO_00000018,every palliative care is a type of something whose treat is a vaginal cancer
+SubClassOf,HPVCO_00000069 ⊑ HPVCO_00000052,every negative hpv related social norm is a type of a hpv vaccine related social norm
+SubClassOf,HPVCO_00000150 ⊑ HPVCO_00000126,every urination and bowel symptom is a type of a symptom
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000175.HPVCO_00000154,every vaginal cancer is a type of something that has symptom a watery vaginal discharge
+SubClassOf,HPVCO_00000161 ⊑ HPVCO_00000146,every trouble swallowing is a type of a throat and mouth symptom
+SubClassOf,HPVCO_00000077 ⊑ ∃ HPVCO_00000056.HPVCO_00000069,every embarrassment in getting hpv vaccine is a type of something whose causally related to is a negative hpv related social norm
+SubClassOf,HPVCO_00000055 ⊑ ∃ HPVCO_00000056.HPVCO_00000069,every hpv vaccine refusal is a type of something whose causally related to is a negative hpv related social norm
+SubClassOf,HPVCO_00000015 ⊑ HPVCO_00000014,every cervical cancer is a type of a cancer
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000197.HPVCO_00000138,every penile cancer is a type of something that cans potentially be prevented by a reduced tobacco usage
+SubClassOf,HPVCO_00000083 ⊑ HPVCO_00000097,every history of cancer is a type of a cancer risk factor
+SubClassOf,HPVCO_00000020 ⊑ ∀ HPVCO_00000147.HPVCO_00000013,every throat cancer is a type of something whose disease has location is a throat
+SubClassOf,HPVCO_00000009 ⊑ ∃ HPVCO_00000056.HPVCO_00000017,every smoking is a type of something whose causally related to is an anal cancer
+SubClassOf,HPVCO_00000162 ⊑ HPVCO_00000146,every lumps in throat is a type of a throat and mouth symptom
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000197.HPVCO_00000125,every vulvar cancer is a type of something that cans potentially be prevented by a pelvic exam
+SubClassOf,HPVCO_00000024 ⊑ HPVCO_00000061,every hpv related stigma is a type of a social impact of hpv
+SubClassOf,HPVCO_00000083 ⊑ ∃ HPVCO_00000056.HPVCO_00000020,every history of cancer is a type of something whose causally related to is a throat cancer
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000175.HPVCO_00000170,every vaginal cancer is a type of something that has symptom a painful urination
+SubClassOf,HPVCO_00000193 ⊑ HPVCO_00000113,every anal pap test is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000164,every throat cancer is a type of something that has symptom a coughing up blood
+SubClassOf,HPVCO_00000129 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every vulvar intraepithelial neoplasia (vin)precancerous conditions of the vulva is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000061 ⊑ ∃ HPVCO_00000056.HPVCO_00000028,every social impact of hpv is a type of something whose causally related to is a financial loss
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000175.HPVCO_00000157,every vulvar cancer is a type of something that has symptom a lumps on the vulva
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000197.HPVCO_00000045,every throat cancer is a type of something that cans potentially be prevented by a safe sexual behavior
+SubClassOf,HPVCO_00000035 ⊑ HPVCO_00000151,every wart is a type of a skin condition
+SubClassOf,HPVCO_00000099 ⊑ ∃ HPVCO_00000101.HPVCO_00000014,every cancer treatment is a type of something whose treat is a cancer
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000197.HPVCO_00000133,every throat cancer is a type of something that cans potentially be prevented by an avoiding needle sharing
+SubClassOf,HPVCO_00000146 ⊑ HPVCO_00000126,every throat and mouth symptom is a type of a symptom
+SubClassOf,HPVCO_00000109 ⊑ ∃ HPVCO_00000101.HPVCO_00000016,every cryotherapy is a type of something whose treat is a penile cancer
+SubClassOf,HPVCO_00000174 ⊑ ∃ HPVCO_00000056.HPVCO_00000017,every advanced age is a type of something whose causally related to is an anal cancer
+SubClassOf,HPVCO_00000089 ⊑ HPVCO_00000063,every financial impact of cancer is a type of a cancer related psychological stress
+SubClassOf,HPVCO_00000040 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every high risk sexual behavior is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000040 ⊑ HPVCO_00000034,every high risk sexual behavior is a type of a hpv risk factor
+SubClassOf,HPVCO_00000108 ⊑ HPVCO_00000099,every circumcision is a type of a cancer treatment
+SubClassOf,HPVCO_00000104 ⊑ ∃ HPVCO_00000101.HPVCO_00000018,every surgery is a type of something whose treat is a vaginal cancer
+SubClassOf,HPVCO_00000019 ⊑ ∀ HPVCO_00000147.HPVCO_00000012,every vulvar cancer is a type of something whose disease has location is a vulva
+SubClassOf,HPVCO_00000068 ⊑ HPVCO_00000052,every positive hpv related social norm is a type of a hpv vaccine related social norm
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000111.HPVCO_00000192,every anal cancer is a type of something that is diagnosed by a digital rectal exam
+SubClassOf,HPVCO_00000092 ⊑ HPVCO_00000089,every direct financial impact of cancer is a type of a financial impact of cancer
+SubClassOf,HPVCO_00000007 ⊑ ∃ BFO_0000050.HPVCO_00000030,every penis is a type of something whose part of is a human
+SubClassOf,HPVCO_00000048 ⊑ HPVCO_00000045,every mutually monogamous relationship is a type of a safe sexual behavior
+SubClassOf,HPVCO_00000065 ⊑ HPVCO_00000060,every cost of hpv medication is a type of a financial impact of hpv
+SubClassOf,HPVCO_00000158 ⊑ HPVCO_00000144,every skin changes around vulva is a type of a vaginal and vulvar symptom
+SubClassOf,HPVCO_00000110 ⊑ ∃ HPVCO_00000101.HPVCO_00000017,every palliative care is a type of something whose treat is an anal cancer
+SubClassOf,HPVCO_00000102 ⊑ ∃ HPVCO_00000101.HPVCO_00000020,every chemotherapy is a type of something whose treat is a throat cancer
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000175.HPVCO_00000167,every penile cancer is a type of something that has symptom a foul-smelling discharge under foreskin
+SubClassOf,HPVCO_00000183 ⊑ HPVCO_00000191,every healthcare provider is a type of a hpv infection management stakeholder
+SubClassOf,HPVCO_00000082 ⊑ HPVCO_00000079,every learning about hpv coping behavior is a type of an adapting to a lifestyle with hpv
+SubClassOf,HPVCO_00000019 ⊑ HPVCO_00000014,every vulvar cancer is a type of a cancer
+SubClassOf,HPVCO_00000130 ⊑ ∃ HPVCO_00000056.HPVCO_00000017,every multiple sexual partner is a type of something whose causally related to is an anal cancer
+SubClassOf,HPVCO_00000037 ⊑ HPVCO_00000035,every common wart is a type of a wart
+SubClassOf,HPVCO_00000114 ⊑ HPVCO_00000113,every pap test is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000165 ⊑ HPVCO_00000148,every weight loss is a type of a general symptom
+SubClassOf,HPVCO_00000098 ⊑ ∃ HPVCO_00000178.HPVCO_00000014,every cancer management strategy is a type of something whose negatively regulate is a cancer
+SubClassOf,HPVCO_00000156 ⊑ HPVCO_00000144,every tenderness in vulva area is a type of a vaginal and vulvar symptom
+SubClassOf,HPVCO_00000005 ⊑ HPVCO_00000000,every destructive behavior is a type of a hpv related coping behavior
+SubClassOf,HPVCO_00000001 ⊑ ∃ HPVCO_00000175.HPVCO_00000035,every hpv infection is a type of something that has symptom a wart
+SubClassOf,HPVCO_00000014 ⊑ ∃ HPVCO_00000111.HPVCO_00000113,every cancer is a type of something that is diagnosed by a cancer diagnostic test
+SubClassOf,HPVCO_00000006 ⊑ HPVCO_00000000,every constructive behavior is a type of a hpv related coping behavior
+SubClassOf,HPVCO_00000170 ⊑ HPVCO_00000150,every painful urination is a type of an urination and bowel symptom
+SubClassOf,HPVCO_00000020 ⊑ HPVCO_00000014,every throat cancer is a type of a cancer
+SubClassOf,HPVCO_00000174 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every advanced age is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000046 ⊑ HPVCO_00000045,every dental dam usage is a type of a safe sexual behavior
+SubClassOf,HPVCO_00000181 ⊑ HPVCO_00000190,every family member is a type of a cancer management stakeholder
+SubClassOf,HPVCO_00000133 ⊑ HPVCO_00000041,every avoiding needle sharing is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000097 ⊑ HPVCO_00000033,every cancer risk factor is a type of a risk factor
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000197.HPVCO_00000045,every cervical cancer is a type of something that cans potentially be prevented by a safe sexual behavior
+SubClassOf,HPVCO_00000011 ⊑ HPVCO_00000034,every alcoholism is a type of a hpv risk factor
+SubClassOf,HPVCO_00000143 ⊑ ∃ BFO_0000050.HPVCO_00000030,every pelvis is a type of something whose part of is a human
+SubClassOf,HPVCO_00000002 ⊑ HPVCO_00000001,every hpv infection of the anus/genital region is a type of a hpv infection
+SubClassOf,HPVCO_00000104 ⊑ ∃ HPVCO_00000101.HPVCO_00000016,every surgery is a type of something whose treat is a penile cancer
+SubClassOf,HPVCO_00000119 ⊑ HPVCO_00000113,every mri scan is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000102 ⊑ ∃ HPVCO_00000101.HPVCO_00000015,every chemotherapy is a type of something whose treat is a cervical cancer
+SubClassOf,HPVCO_00000105 ⊑ ∃ HPVCO_00000101.HPVCO_00000020,every targeted drug therapy is a type of something whose treat is a throat cancer
+SubClassOf,HPVCO_00000030 ⊑ HPVCO_00000029,every human is a type of an organism
+SubClassOf,HPVCO_00000067 ⊑ HPVCO_00000060,every cost of doctor appointment / check-up for hpv is a type of a financial impact of hpv
+SubClassOf,HPVCO_00000002 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every hpv infection of the anus/genital region is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000104 ⊑ ∃ HPVCO_00000101.HPVCO_00000017,every surgery is a type of something whose treat is an anal cancer
+SubClassOf,HPVCO_00000103 ⊑ ∃ HPVCO_00000101.HPVCO_00000019,every radiation is a type of something whose treat is a vulvar cancer
+SubClassOf,HPVCO_00000084 ⊑ ∃ HPVCO_00000056.HPVCO_00000016,every lichen sclerosus skin condition is a type of something whose causally related to is a penile cancer
+SubClassOf,HPVCO_00000118 ⊑ HPVCO_00000113,every physical exam of mouth and neck is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000027 ⊑ HPVCO_00000061,every negative attitude at workplace is a type of a social impact of hpv
+SubClassOf,HPVCO_00000088 ⊑ HPVCO_00000087,every miscarriage prevention drug is a type of a prescribable drug
+SubClassOf,HPVCO_00000104 ⊑ ∃ HPVCO_00000101.HPVCO_00000015,every surgery is a type of something whose treat is a cervical cancer
+SubClassOf,HPVCO_00000104 ⊑ ∃ HPVCO_00000101.HPVCO_00000020,every surgery is a type of something whose treat is a throat cancer
+SubClassOf,HPVCO_00000023 ⊑ HPVCO_00000006,every engage in physical activity is a type of a constructive behavior
+SubClassOf,HPVCO_00000049 ⊑ ∃ HPVCO_00000074.HPVCO_00000055,every hpv vaccine uptake is a type of something that has driver a hpv vaccine refusal
+SubClassOf,HPVCO_00000049 ⊑ ∃ HPVCO_00000173.HPVCO_00000051,every hpv vaccine uptake is a type of something that realizes in a hpv vaccine
+SubClassOf,HPVCO_00000137 ⊑ HPVCO_00000041,every reduced alcohol consumption is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000013 ⊑ HPVCO_00000032,every throat is a type of an anatomical site
+SubClassOf,HPVCO_00000072 ⊑ ∃ HPVCO_00000056.HPVCO_00000069,every anti-vaccine conspiracy theory is a type of something whose causally related to is a negative hpv related social norm
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000111.HPVCO_00000123,every penile cancer is a type of something that is diagnosed by a ct scan
+SubClassOf,HPVCO_00000157 ⊑ HPVCO_00000144,every lumps on the vulva is a type of a vaginal and vulvar symptom
+SubClassOf,HPVCO_00000128 ⊑ HPVCO_00000097,every vaginal intraepithelial neoplasia (vain)atypical cells in the vagi is a type of a cancer risk factor
+SubClassOf,HPVCO_00000103 ⊑ HPVCO_00000099,every radiation is a type of a cancer treatment
+SubClassOf,HPVCO_00000172 ⊑ HPVCO_00000145,every pain in anal area is a type of a pelvic and anal symptom
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000111.HPVCO_00000117,every cervical cancer is a type of something that is diagnosed by a cone biopsy
+SubClassOf,HPVCO_00000105 ⊑ HPVCO_00000099,every targeted drug therapy is a type of a cancer treatment
+SubClassOf,HPVCO_00000001 ⊑ ∃ HPVCO_00000111.HPVCO_00000057,every hpv infection is a type of something that is diagnosed by a hpv testing/screeninghpv diagnostic test
+SubClassOf,HPVCO_00000051 ⊑ HPVCO_00000050,every hpv vaccine is a type of a vaccine
+SubClassOf,HPVCO_00000106 ⊑ ∃ HPVCO_00000101.HPVCO_00000020,every immunotherapy is a type of something whose treat is a throat cancer
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000111.HPVCO_00000115,every cervical cancer is a type of something that is diagnosed by an endocervical curettage
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000111.HPVCO_00000119,every penile cancer is a type of something that is diagnosed by a mri scan
+SubClassOf,HPVCO_00000044 ⊑ ∃ HPVCO_00000178.HPVCO_00000001,every hpv infection management stratergy is a type of something whose negatively regulate is a hpv infection
+SubClassOf,HPVCO_00000002 ⊑ ∃ HPVCO_00000056.HPVCO_00000016,every hpv infection of the anus/genital region is a type of something whose causally related to is a penile cancer
+SubClassOf,HPVCO_00000008 ⊑ HPVCO_00000032,every anus is a type of an anatomical site
+SubClassOf,HPVCO_00000095 ⊑ HPVCO_00000091,every cancer related anxiety is a type of a social impact of cancer
+SubClassOf,HPVCO_00000168 ⊑ HPVCO_00000149,every lumps on penis is a type of a penile symptom
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000111.HPVCO_00000121,every vaginal cancer is a type of something that is diagnosed by a biopsy
+SubClassOf,HPVCO_00000188 ⊑ HPVCO_00000191,every employer is a type of a hpv infection management stakeholder
+SubClassOf,HPVCO_00000110 ⊑ HPVCO_00000099,every palliative care is a type of a cancer treatment
+SubClassOf,HPVCO_00000042 ⊑ HPVCO_00000034,every weakened immune system is a type of a hpv risk factor
+SubClassOf,HPVCO_00000073 ⊑ ∃ HPVCO_00000056.HPVCO_00000069,every religious beliefs in vaccine is a type of something whose causally related to is a negative hpv related social norm
+SubClassOf,HPVCO_00000104 ⊑ HPVCO_00000099,every surgery is a type of a cancer treatment
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000111.HPVCO_00000195,every anal cancer is a type of something that is diagnosed by a proctoscopy
+SubClassOf,HPVCO_00000106 ⊑ ∃ HPVCO_00000101.HPVCO_00000019,every immunotherapy is a type of something whose treat is a vulvar cancer
+SubClassOf,HPVCO_00000130 ⊑ HPVCO_00000040,every multiple sexual partner is a type of a high risk sexual behavior
+SubClassOf,HPVCO_00000016 ⊑ HPVCO_00000014,every penile cancer is a type of a cancer
+SubClassOf,HPVCO_00000062 ⊑ HPVCO_00000059,every sexual and relationship impact of hpv is a type of a hpv related psychological stress
+SubClassOf,HPVCO_00000152 ⊑ HPVCO_00000144,every vaginal bleeding is a type of a vaginal and vulvar symptom
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000175.HPVCO_00000158,every vulvar cancer is a type of something that has symptom a skin changes around vulva
+SubClassOf,HPVCO_00000189 ⊑ HPVCO_00000183,every psychologist is a type of a healthcare provider
+SubClassOf,HPVCO_00000192 ⊑ HPVCO_00000113,every digital rectal exam is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000177 ⊑ HPVCO_00000145,every mass or growth in anu is a type of a pelvic and anal symptom
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000175.HPVCO_00000166,every penile cancer is a type of something that has symptom a skin changes of the penis
+SubClassOf,HPVCO_00000009 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every smoking is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000128 ⊑ ∃ HPVCO_00000147.HPVCO_00000010,every vaginal intraepithelial neoplasia (vain)atypical cells in the vagi is a type of something whose disease has location is a vagi
+SubClassOf,HPVCO_00000100 ⊑ HPVCO_00000097,every human immunodeficiency virus (hiv) infection is a type of a cancer risk factor
+SubClassOf,HPVCO_00000102 ⊑ HPVCO_00000099,every chemotherapy is a type of a cancer treatment
+SubClassOf,HPVCO_00000132 ⊑ HPVCO_00000097,every needle sharing is a type of a cancer risk factor
+SubClassOf,HPVCO_00000131 ⊑ HPVCO_00000040,every anal sex is a type of a high risk sexual behavior
+SubClassOf,HPVCO_00000163 ⊑ HPVCO_00000146,every trouble with mouth and tongue is a type of a throat and mouth symptom
+SubClassOf,HPVCO_00000136 ⊑ HPVCO_00000041,every self-examination is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000165,every throat cancer is a type of something that has symptom a weight loss
+SubClassOf,HPVCO_00000058 ⊑ HPVCO_00000044,every hpv infection risk reduction strategy is a type of a hpv infection management stratergy
+SubClassOf,HPVCO_00000103 ⊑ ∃ HPVCO_00000101.HPVCO_00000016,every radiation is a type of something whose treat is a penile cancer
+SubClassOf,HPVCO_00000009 ⊑ HPVCO_00000034,every smoking is a type of a hpv risk factor
+SubClassOf,HPVCO_00000003 ⊑ HPVCO_00000001,every hpv infection of the throat is a type of a hpv infection
+SubClassOf,HPVCO_00000106 ⊑ HPVCO_00000099,every immunotherapy is a type of a cancer treatment
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000111.HPVCO_00000121,every vulvar cancer is a type of something that is diagnosed by a biopsy
+SubClassOf,HPVCO_00000038 ⊑ HPVCO_00000035,every plantar wart is a type of a wart
+SubClassOf,HPVCO_00000008 ⊑ ∃ BFO_0000050.HPVCO_00000030,every anus is a type of something whose part of is a human
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000111.HPVCO_00000116,every vaginal cancer is a type of something that is diagnosed by a colposcopic biopsy
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000175.HPVCO_00000172,every anal cancer is a type of something that has symptom a pain in anal area
+SubClassOf,HPVCO_00000166 ⊑ HPVCO_00000149,every skin changes of the penis is a type of a penile symptom
+SubClassOf,HPVCO_00000077 ⊑ HPVCO_00000075,every embarrassment in getting hpv vaccine is a type of an attitude towards hpv vaccine
+SubClassOf,HPVCO_00000183 ⊑ HPVCO_00000190,every healthcare provider is a type of a cancer management stakeholder
+SubClassOf,HPVCO_00000159 ⊑ HPVCO_00000145,every itiching around anu is a type of a pelvic and anal symptom
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000142,every throat cancer is a type of something that has symptom an ear pain
+SubClassOf,HPVCO_00000007 ⊑ HPVCO_00000032,every penis is a type of an anatomical site
+SubClassOf,HPVCO_00000011 ⊑ ∃ HPVCO_00000056.HPVCO_00000020,every alcoholism is a type of something whose causally related to is a throat cancer
+SubClassOf,HPVCO_00000012 ⊑ ∃ BFO_0000050.HPVCO_00000030,every vulva is a type of something whose part of is a human
+SubClassOf,HPVCO_00000143 ⊑ HPVCO_00000032,every pelvis is a type of an anatomical site
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000197.HPVCO_00000049,every cervical cancer is a type of something that cans potentially be prevented by a hpv vaccine uptake
+SubClassOf,HPVCO_00000121 ⊑ HPVCO_00000113,every biopsy is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000045 ⊑ HPVCO_00000041,every safe sexual behavior is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000195 ⊑ HPVCO_00000113,every proctoscopy is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000014 ⊑ ∃ HPVCO_00000056.HPVCO_00000063,every cancer is a type of something whose causally related to is a cancer related psychological stress
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000111.HPVCO_00000116,every cervical cancer is a type of something that is diagnosed by a colposcopic biopsy
+SubClassOf,HPVCO_00000135 ⊑ HPVCO_00000058,every routine medical check-up is a type of a hpv infection risk reduction strategy
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000197.HPVCO_00000138,every throat cancer is a type of something that cans potentially be prevented by a reduced tobacco usage
+SubClassOf,HPVCO_00000010 ⊑ ∃ BFO_0000050.HPVCO_00000030,every vagi is a type of something whose part of is a human
+SubClassOf,HPVCO_00000088 ⊑ HPVCO_00000097,every miscarriage prevention drug is a type of a cancer risk factor
+SubClassOf,HPVCO_00000057 ⊑ HPVCO_00000134,every hpv testing/screeninghpv diagnostic test is a type of a health monitoring
+SubClassOf,HPVCO_00000009 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every smoking is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000197.HPVCO_00000045,every vulvar cancer is a type of something that cans potentially be prevented by a safe sexual behavior
+SubClassOf,HPVCO_00000102 ⊑ ∃ HPVCO_00000101.HPVCO_00000019,every chemotherapy is a type of something whose treat is a vulvar cancer
+SubClassOf,HPVCO_00000155 ⊑ HPVCO_00000144,every itching of vulva is a type of a vaginal and vulvar symptom
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000197.HPVCO_00000049,every anal cancer is a type of something that cans potentially be prevented by a hpv vaccine uptake
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000197.HPVCO_00000125,every vaginal cancer is a type of something that cans potentially be prevented by a pelvic exam
+SubClassOf,HPVCO_00000004 ⊑ HPVCO_00000032,every cervix is a type of an anatomical site
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000111.HPVCO_00000125,every vaginal cancer is a type of something that is diagnosed by a pelvic exam
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000175.HPVCO_00000156,every vulvar cancer is a type of something that has symptom a tenderness in vulva area
+SubClassOf,HPVCO_00000021 ⊑ HPVCO_00000005,every drug abuse is a type of a destructive behavior
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000111.HPVCO_00000124,every penile cancer is a type of something that is diagnosed by an ultrasound scan
+SubClassOf,HPVCO_00000100 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every human immunodeficiency virus (hiv) infection is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000149 ⊑ HPVCO_00000126,every penile symptom is a type of a symptom
+SubClassOf,HPVCO_00000025 ⊑ HPVCO_00000061,every hpv related anxiety is a type of a social impact of hpv
+SubClassOf,HPVCO_00000022 ⊑ HPVCO_00000006,every seeking social support is a type of a constructive behavior
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000175.HPVCO_00000152,every vaginal cancer is a type of something that has symptom a vaginal bleeding
+SubClassOf,HPVCO_00000128 ⊑ HPVCO_00000127,every vaginal intraepithelial neoplasia (vain)atypical cells in the vagi is a type of a precancerous conditions of the vulva or vagi
+SubClassOf,HPVCO_00000081 ⊑ HPVCO_00000079,every seeking regular hpv testing/screening is a type of an adapting to a lifestyle with hpv
+SubClassOf,HPVCO_00000099 ⊑ HPVCO_00000098,every cancer treatment is a type of a cancer management strategy
+SubClassOf,HPVCO_00000043 ⊑ HPVCO_00000034,every damaged skin is a type of a hpv risk factor
+SubClassOf,HPVCO_00000105 ⊑ ∃ HPVCO_00000101.HPVCO_00000019,every targeted drug therapy is a type of something whose treat is a vulvar cancer
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000197.HPVCO_00000140,every throat cancer is a type of something that cans potentially be prevented by a maintaining a healthy diet
+SubClassOf,HPVCO_00000103 ⊑ ∃ HPVCO_00000101.HPVCO_00000015,every radiation is a type of something whose treat is a cervical cancer
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000111.HPVCO_00000119,every vulvar cancer is a type of something that is diagnosed by a mri scan
+SubClassOf,HPVCO_00000102 ⊑ ∃ HPVCO_00000101.HPVCO_00000018,every chemotherapy is a type of something whose treat is a vaginal cancer
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000162,every throat cancer is a type of something that has symptom a lumps in throat
+SubClassOf,HPVCO_00000141 ⊑ HPVCO_00000145,every pelvic pain is a type of a pelvic and anal symptom
+SubClassOf,HPVCO_00000054 ⊑ HPVCO_00000062,every feelings of unattractiveness is a type of a sexual and relationship impact of hpv
+SubClassOf,HPVCO_00000011 ⊑ HPVCO_00000097,every alcoholism is a type of a cancer risk factor
+SubClassOf,HPVCO_00000018 ⊑ HPVCO_00000014,every vaginal cancer is a type of a cancer
+SubClassOf,HPVCO_00000072 ⊑ HPVCO_00000070,every anti-vaccine conspiracy theory is a type of a social norm
+SubClassOf,HPVCO_00000122 ⊑ HPVCO_00000113,every pet-ct scan is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000153 ⊑ HPVCO_00000152,every unusual vaginal bleeding is a type of a vaginal bleeding
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000111.HPVCO_00000194,every anal cancer is a type of something that is diagnosed by an anoscopy
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000197.HPVCO_00000138,every vaginal cancer is a type of something that cans potentially be prevented by a reduced tobacco usage
+SubClassOf,HPVCO_00000112 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every becoming sexually active at a young age is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000009 ⊑ HPVCO_00000005,every smoking is a type of a destructive behavior
+SubClassOf,HPVCO_00000129 ⊑ ∃ HPVCO_00000147.HPVCO_00000012,every vulvar intraepithelial neoplasia (vin)precancerous conditions of the vulva is a type of something whose disease has location is a vulva
+SubClassOf,HPVCO_00000041 ⊑ ∃ HPVCO_00000085.HPVCO_00000097,every cancer risk reduction strategy is a type of something whose potentially negatively regulate is a cancer risk factor
+SubClassOf,HPVCO_00000034 ⊑ HPVCO_00000033,every hpv risk factor is a type of a risk factor
+SubClassOf,HPVCO_00000015 ⊑ ∀ HPVCO_00000147.HPVCO_00000004,every cervical cancer is a type of something whose disease has location is a cervix
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000111.HPVCO_00000123,every vulvar cancer is a type of something that is diagnosed by a ct scan
+SubClassOf,HPVCO_00000136 ⊑ HPVCO_00000134,every self-examination is a type of a health monitoring
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000161,every throat cancer is a type of something that has symptom a trouble swallowing
+SubClassOf,HPVCO_00000018 ⊑ ∀ HPVCO_00000147.HPVCO_00000010,every vaginal cancer is a type of something whose disease has location is a vagi
+SubClassOf,HPVCO_00000107 ⊑ HPVCO_00000099,every penectomy is a type of a cancer treatment
+SubClassOf,HPVCO_00000134 ⊑ ∃ BFO_0000050.HPVCO_00000098,every health monitoring is a type of something whose part of is a cancer management strategy
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000197.HPVCO_00000136,every cervical cancer is a type of something that cans potentially be prevented by a self-examination
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000111.HPVCO_00000114,every cervical cancer is a type of something that is diagnosed by a pap test
+SubClassOf,HPVCO_00000071 ⊑ HPVCO_00000070,every sexual taboo is a type of a social norm
+SubClassOf,HPVCO_00000115 ⊑ HPVCO_00000113,every endocervical curettage is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000078 ⊑ ∃ HPVCO_00000056.HPVCO_00000069,every side effects of hpv vaccine is a type of something whose causally related to is a negative hpv related social norm
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000197.HPVCO_00000137,every throat cancer is a type of something that cans potentially be prevented by a reduced alcohol consumption
+SubClassOf,HPVCO_00000034 ⊑ ∃ HPVCO_00000056.HPVCO_00000001,every hpv risk factor is a type of something whose causally related to is a hpv infection
+SubClassOf,HPVCO_00000190 ⊑ ∃ HPVCO_00000180.HPVCO_00000098,every cancer management stakeholder is a type of something whose support is a cancer management strategy
+SubClassOf,HPVCO_00000174 ⊑ HPVCO_00000097,every advanced age is a type of a cancer risk factor
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000111.HPVCO_00000193,every anal cancer is a type of something that is diagnosed by an anal pap test
+SubClassOf,HPVCO_00000187 ⊑ HPVCO_00000191,every friend is a type of a hpv infection management stakeholder
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000111.HPVCO_00000122,every penile cancer is a type of something that is diagnosed by a pet-ct scan
+SubClassOf,HPVCO_00000109 ⊑ HPVCO_00000099,every cryotherapy is a type of a cancer treatment
+SubClassOf,HPVCO_00000071 ⊑ ∃ HPVCO_00000056.HPVCO_00000069,every sexual taboo is a type of something whose causally related to is a negative hpv related social norm
+SubClassOf,HPVCO_00000116 ⊑ HPVCO_00000113,every colposcopic biopsy is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000112 ⊑ HPVCO_00000040,every becoming sexually active at a young age is a type of a high risk sexual behavior
+SubClassOf,HPVCO_00000096 ⊑ HPVCO_00000091,every cancer related stigma is a type of a social impact of cancer
+SubClassOf,HPVCO_00000134 ⊑ ∃ BFO_0000050.HPVCO_00000044,every health monitoring is a type of something whose part of is a hpv infection management stratergy
+SubClassOf,HPVCO_00000169 ⊑ HPVCO_00000150,every constipation is a type of an urination and bowel symptom
+SubClassOf,HPVCO_00000002 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every hpv infection of the anus/genital region is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000175.HPVCO_00000155,every vulvar cancer is a type of something that has symptom an itching of vulva
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000197.HPVCO_00000045,every anal cancer is a type of something that cans potentially be prevented by a safe sexual behavior
+SubClassOf,HPVCO_00000041 ⊑ HPVCO_00000098,every cancer risk reduction strategy is a type of a cancer management strategy
+SubClassOf,HPVCO_00000060 ⊑ HPVCO_00000059,every financial impact of hpv is a type of a hpv related psychological stress
+SubClassOf,HPVCO_00000073 ⊑ HPVCO_00000070,every religious beliefs in vaccine is a type of a social norm
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000197.HPVCO_00000138,every anal cancer is a type of something that cans potentially be prevented by a reduced tobacco usage
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000175.HPVCO_00000171,every anal cancer is a type of something that has symptom an anal bleeding
+SubClassOf,HPVCO_00000124 ⊑ HPVCO_00000113,every ultrasound scan is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000050 ⊑ HPVCO_00000086,every vaccine is a type of a medication
+SubClassOf,HPVCO_00000191 ⊑ HPVCO_00000179,every hpv infection management stakeholder is a type of a stakeholder
+SubClassOf,HPVCO_00000047 ⊑ HPVCO_00000045,every latex condom usage is a type of a safe sexual behavior
+SubClassOf,HPVCO_00000084 ⊑ ∃ HPVCO_00000056.HPVCO_00000019,every lichen sclerosus skin condition is a type of something whose causally related to is a vulvar cancer
+SubClassOf,HPVCO_00000148 ⊑ HPVCO_00000126,every general symptom is a type of a symptom
+SubClassOf,HPVCO_00000151 ⊑ HPVCO_00000126,every skin condition is a type of a symptom
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000111.HPVCO_00000122,every throat cancer is a type of something that is diagnosed by a pet-ct scan
+SubClassOf,HPVCO_00000094 ⊑ HPVCO_00000092,every cost of doctor appointment / check-up for cancer is a type of a direct financial impact of cancer
+SubClassOf,HPVCO_00000186 ⊑ HPVCO_00000190,every careteaker is a type of a cancer management stakeholder
+SubClassOf,HPVCO_00000049 ⊑ HPVCO_00000044,every hpv vaccine uptake is a type of a hpv infection management stratergy
+SubClassOf,HPVCO_00000055 ⊑ HPVCO_00000075,every hpv vaccine refusal is a type of an attitude towards hpv vaccine
+SubClassOf,HPVCO_00000102 ⊑ ∃ HPVCO_00000101.HPVCO_00000016,every chemotherapy is a type of something whose treat is a penile cancer
+SubClassOf,HPVCO_00000164 ⊑ HPVCO_00000146,every coughing up blood is a type of a throat and mouth symptom
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000175.HPVCO_00000169,every vaginal cancer is a type of something that has symptom a constipation
+SubClassOf,HPVCO_00000040 ⊑ HPVCO_00000097,every high risk sexual behavior is a type of a cancer risk factor
+SubClassOf,HPVCO_00000004 ⊑ ∃ BFO_0000050.HPVCO_00000030,every cervix is a type of something whose part of is a human
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000111.HPVCO_00000122,every vaginal cancer is a type of something that is diagnosed by a pet-ct scan
+SubClassOf,HPVCO_00000138 ⊑ HPVCO_00000041,every reduced tobacco usage is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000100 ⊑ ∃ HPVCO_00000056.HPVCO_00000018,every human immunodeficiency virus (hiv) infection is a type of something whose causally related to is a vaginal cancer
+SubClassOf,HPVCO_00000097 ⊑ ∃ HPVCO_00000056.HPVCO_00000014,every cancer risk factor is a type of something whose causally related to is a cancer
+SubClassOf,HPVCO_00000091 ⊑ HPVCO_00000063,every social impact of cancer is a type of a cancer related psychological stress
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000163,every throat cancer is a type of something that has symptom a trouble with mouth and tongue
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000197.HPVCO_00000114,every vaginal cancer is a type of something that cans potentially be prevented by a pap test
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000175.HPVCO_00000168,every penile cancer is a type of something that has symptom a lumps on penis
+SubClassOf,HPVCO_00000135 ⊑ HPVCO_00000134,every routine medical check-up is a type of a health monitoring
+SubClassOf,HPVCO_00000123 ⊑ HPVCO_00000113,every ct scan is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000111.HPVCO_00000119,every throat cancer is a type of something that is diagnosed by a mri scan
+SubClassOf,HPVCO_00000042 ⊑ ∃ HPVCO_00000056.HPVCO_00000017,every weakened immune system is a type of something whose causally related to is an anal cancer
+SubClassOf,HPVCO_00000186 ⊑ HPVCO_00000191,every careteaker is a type of a hpv infection management stakeholder
+SubClassOf,HPVCO_00000059 ⊑ ∃ HPVCO_00000200.HPVCO_00000000,every hpv related psychological stress is a type of something that regulates by a hpv related coping behavior
+SubClassOf,HPVCO_00000182 ⊑ HPVCO_00000191,every co-worker is a type of a hpv infection management stakeholder
+SubClassOf,HPVCO_00000031 ⊑ HPVCO_00000029,every human papillomavirus is a type of an organism
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000175.HPVCO_00000160,every throat cancer is a type of something that has symptom a sore throat
+SubClassOf,HPVCO_00000184 ⊑ HPVCO_00000183,every nutritionist is a type of a healthcare provider
+SubClassOf,HPVCO_00000154 ⊑ HPVCO_00000144,every watery vaginal discharge is a type of a vaginal and vulvar symptom
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000197.HPVCO_00000049,every vaginal cancer is a type of something that cans potentially be prevented by a hpv vaccine uptake
+SubClassOf,HPVCO_00000019 ⊑ ∃ HPVCO_00000197.HPVCO_00000049,every vulvar cancer is a type of something that cans potentially be prevented by a hpv vaccine uptake
+SubClassOf,HPVCO_00000142 ⊑ HPVCO_00000148,every ear pain is a type of a general symptom
+SubClassOf,HPVCO_00000194 ⊑ HPVCO_00000113,every anoscopy is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000135 ⊑ HPVCO_00000041,every routine medical check-up is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000117 ⊑ HPVCO_00000113,every cone biopsy is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000188 ⊑ HPVCO_00000190,every employer is a type of a cancer management stakeholder
+SubClassOf,HPVCO_00000001 ⊑ ∃ HPVCO_00000196.HPVCO_00000031,every hpv infection is a type of something that transmits by a human papillomavirus
+SubClassOf,HPVCO_00000129 ⊑ HPVCO_00000097,every vulvar intraepithelial neoplasia (vin)precancerous conditions of the vulva is a type of a cancer risk factor
+SubClassOf,HPVCO_00000015 ⊑ ∃ HPVCO_00000197.HPVCO_00000135,every cervical cancer is a type of something that cans potentially be prevented by a routine medical check-up
+SubClassOf,HPVCO_00000012 ⊑ HPVCO_00000032,every vulva is a type of an anatomical site
+SubClassOf,HPVCO_00000084 ⊑ HPVCO_00000097,every lichen sclerosus skin condition is a type of a cancer risk factor
+SubClassOf,HPVCO_00000113 ⊑ HPVCO_00000134,every cancer diagnostic test is a type of a health monitoring
+SubClassOf,HPVCO_00000171 ⊑ HPVCO_00000145,every anal bleeding is a type of a pelvic and anal symptom
+SubClassOf,HPVCO_00000108 ⊑ HPVCO_00000041,every circumcision is a type of a cancer risk reduction strategy
+SubClassOf,HPVCO_00000003 ⊑ ∃ HPVCO_00000056.HPVCO_00000020,every hpv infection of the throat is a type of something whose causally related to is a throat cancer
+SubClassOf,HPVCO_00000185 ⊑ HPVCO_00000183,every registered dietitian is a type of a healthcare provider
+SubClassOf,HPVCO_00000106 ⊑ ∃ HPVCO_00000101.HPVCO_00000017,every immunotherapy is a type of something whose treat is an anal cancer
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000175.HPVCO_00000141,every vaginal cancer is a type of something that has symptom a pelvic pain
+SubClassOf,HPVCO_00000125 ⊑ HPVCO_00000113,every pelvic exam is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000009 ⊑ HPVCO_00000097,every smoking is a type of a cancer risk factor
+SubClassOf,HPVCO_00000167 ⊑ HPVCO_00000149,every foul-smelling discharge under foreskin is a type of a penile symptom
+SubClassOf,HPVCO_00000042 ⊑ ∃ HPVCO_00000056.HPVCO_00000016,every weakened immune system is a type of something whose causally related to is a penile cancer
+SubClassOf,HPVCO_00000144 ⊑ HPVCO_00000126,every vaginal and vulvar symptom is a type of a symptom
+SubClassOf,HPVCO_00000090 ⊑ HPVCO_00000063,every sexual and relationship impact of cancer is a type of a cancer related psychological stress
+SubClassOf,HPVCO_00000017 ⊑ ∃ HPVCO_00000175.HPVCO_00000177,every anal cancer is a type of something that has symptom a mass or growth in anu
+SubClassOf,HPVCO_00000104 ⊑ ∃ HPVCO_00000101.HPVCO_00000019,every surgery is a type of something whose treat is a vulvar cancer
+SubClassOf,HPVCO_00000016 ⊑ ∃ HPVCO_00000197.HPVCO_00000045,every penile cancer is a type of something that cans potentially be prevented by a safe sexual behavior
+SubClassOf,HPVCO_00000026 ⊑ HPVCO_00000061,every loss of motivation is a type of a social impact of hpv
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000111.HPVCO_00000123,every vaginal cancer is a type of something that is diagnosed by a ct scan
+SubClassOf,HPVCO_00000061 ⊑ ∃ HPVCO_00000056.HPVCO_00000053,every social impact of hpv is a type of something whose causally related to is a workforce loss
+SubClassOf,HPVCO_00000120 ⊑ HPVCO_00000113,every neurological exam is a type of a cancer diagnostic test
+SubClassOf,HPVCO_00000009 ⊑ ∃ HPVCO_00000056.HPVCO_00000016,every smoking is a type of something whose causally related to is a penile cancer
+SubClassOf,HPVCO_00000129 ⊑ HPVCO_00000127,every vulvar intraepithelial neoplasia (vin)precancerous conditions of the vulva is a type of a precancerous conditions of the vulva or vagi
+SubClassOf,HPVCO_00000020 ⊑ ∃ HPVCO_00000111.HPVCO_00000118,every throat cancer is a type of something that is diagnosed by a physical exam of mouth and neck
+SubClassOf,HPVCO_00000102 ⊑ ∃ HPVCO_00000101.HPVCO_00000017,every chemotherapy is a type of something whose treat is an anal cancer
+SubClassOf,HPVCO_00000036 ⊑ HPVCO_00000035,every genital wart is a type of a wart
+SubClassOf,HPVCO_00000018 ⊑ ∃ HPVCO_00000111.HPVCO_00000119,every vaginal cancer is a type of something that is diagnosed by a mri scan
+TransitiveObjectProperty,BFO_0000050 ∈ R⁺,"If thing X parts of thing Y then thing Y parts of thing Z, and so on."

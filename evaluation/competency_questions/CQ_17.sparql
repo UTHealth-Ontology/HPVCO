@@ -1,0 +1,14 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX hpvco: <http://www.semanticweb.org/HPVCO:>
+SELECT DISTINCT ?label
+WHERE {
+
+    ?causes rdfs:subClassOf [
+        rdf:type owl:Restriction ;
+        owl:onProperty hpvco:00000056 ;
+        owl:someValuesFrom hpvco:00000069
+    ] .
+
+    ?causes rdfs:label ?label
+}

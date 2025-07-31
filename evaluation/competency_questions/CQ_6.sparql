@@ -1,0 +1,15 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX hpvco: <http://www.semanticweb.org/HPVCO:>  
+SELECT DISTINCT  ?label
+WHERE { 
+    ?cancer rdfs:subClassOf* hpvco:00000014 . 
+
+    ?cancer rdfs:subClassOf [
+        rdf:type owl:Restriction ;
+        owl:onProperty hpvco:00000056 ;  
+        owl:someValuesFrom ?causes
+    ] .
+    ?cause rdfs:subClassOf* ?causes .
+    ?cause rdfs:label ?label
+}
